@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://severnrestoration.com/sitemap.xml
